@@ -3,7 +3,7 @@ a Magic Home led strip controll libary for nodejs
 # Features
 **Controll the led strip**
 **Change Color of led strip**
-# Instalition
+# installation
 put the MagicLedControll.js for src/MagicLedControll.js in your folder and add
 ```javascript
 const Controller = require("./MagicLedControll.js");
