@@ -1,5 +1,5 @@
 # MagicHomeController
-a Magic Home led strip controll libary for nodejs
+a Magic Home led strip control library for nodejs
 # Features
 **Controll the led strip**
 **Change Color of led strip**
